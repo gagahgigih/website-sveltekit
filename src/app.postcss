@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+@layer components {
+
+}
+html, body { @apply h-full overflow-hidden; }
+@font-face {
+	font-family: 'Quicksand';
+	src: url('./fonts/quicksand.ttf');
+	font-display: swap;
+}
+@font-face {
+    font-family: 'Caveat';
+    src: url('/fonts/caveat/Caveat-Regular.ttf')
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter.ttf')
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('/fonts/Kanit.ttf')
+}
+
+@layer components {
+    .button-price-blue {
+    @apply bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full p-3 font-inter text-white font-bold transition duration-300 ease-in-out hover:-translate-y-2
+    }
+    .button-price-teal {
+        @apply bg-gradient-to-r from-teal-500 via-emerald-500 to-yellow-500 rounded-full p-3 font-inter text-white font-bold transition duration-300 ease-in-out hover:-translate-y-2
+        }
+    .img-studio {
+    @apply  rounded-xl transition duration-200 ease-in-out hover:scale-125
+    }
+}
