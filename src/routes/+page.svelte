@@ -8,7 +8,9 @@
 </svelte:head>
 <script >
 	import Introduction from "$lib/frame/introduction.svelte";
+	import Product from "$lib/frame/product.svelte";
 </script>
-<div>
+<div class="flex flex-col gap-8 bg-surface-500 ">
 	<Introduction />
+	<Product />
 </div>

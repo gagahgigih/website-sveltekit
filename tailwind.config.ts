@@ -17,7 +17,13 @@ export default {
 			},
 			backgroundImage: {
 				'bg-gradient': "url('/bg/bg-gradient.png')",
+				'product-one' : "url('/products/Artboard 1.png')",
+				'product-two' : "url('/products/Artboard 2.png')",
+				'product-three' : "url('/products/Artboard 3.png')",
 			},
+			colors: {
+				blacky: '#222222'
+			}
 		},
 	},
 	plugins: [
