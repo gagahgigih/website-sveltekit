@@ -20,6 +20,9 @@ export default {
 				'product-one' : "url('/products/Artboard 1.png')",
 				'product-two' : "url('/products/Artboard 2.png')",
 				'product-three' : "url('/products/Artboard 3.png')",
+				'product-four' : "url('/products/Artboard 4.png')",
+				'product-five' : "url('/products/Artboard 5.png')",
+				'product-six' : "url('/products/Artboard 6.png')",
 			},
 			colors: {
 				blacky: '#222222'

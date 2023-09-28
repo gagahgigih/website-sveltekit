@@ -9,8 +9,15 @@
 <script >
 	import Introduction from "$lib/frame/introduction.svelte";
 	import Product from "$lib/frame/product.svelte";
+	import Contact from "$lib/frame/contact.svelte";
+	import ProductPhoto from "$lib/frame/productphoto.svelte";
+	import SelfPhoto from "$lib/frame/selfphoto.svelte";
+
 </script>
-<div class="flex flex-col gap-8 bg-surface-500 ">
+<div class="flex flex-col bg-surface-500 scroll-smooth">
 	<Introduction />
 	<Product />
+	<Contact />
+	<SelfPhoto />
+	<ProductPhoto />
 </div>
