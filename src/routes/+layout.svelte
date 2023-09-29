@@ -16,6 +16,7 @@
             </svelte:fragment>
             <svelte:fragment >
                 <div class="flex gap-3 mx-5">
+                    <a href="/" class=" text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Home</a>
                     <a href="/about" class=" text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">About</a>
                     <a href="/gallery" class="text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Gallery</a>
                     <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6" class="text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Lokasi</a>

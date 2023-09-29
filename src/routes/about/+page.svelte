@@ -15,7 +15,7 @@
             </div>
             <div class="">
                 <AccordionItem open>
-                    <svelte:fragment slot="lead"><Icon icon="akar-icons:person" /></svelte:fragment>
+                    <svelte:fragment slot="lead"><Icon icon="zondicons:portfolio" /></svelte:fragment>
                     <svelte:fragment  slot="summary"><h2 class="text-white border-b-2 border-white  font-extrabold font-caveat text-xl lg:text-3xl group-hover:text-secondary-500">Boleh liat portofolio kalian?</h2></svelte:fragment>
                     <svelte:fragment slot="content">
                         <div class="flex flex-col gap-4">
@@ -35,28 +35,28 @@
             </div>
             <div class="">
                 <AccordionItem>
-                    <svelte:fragment slot="lead"><Icon icon="akar-icons:person" /></svelte:fragment>
+                    <svelte:fragment slot="lead"><Icon icon="tabler:location-filled" /></svelte:fragment>
                     <svelte:fragment  slot="summary"><h2 class="text-white border-b-2 border-white font-extrabold font-caveat text-xl lg:text-3xl group-hover:text-secondary-500">Lokasi Kantor?</h2></svelte:fragment>
                     <svelte:fragment slot="content"><p class="bg-blacky/50 p-4 rounded-md font-inter text-white/80 backdrop-blur-md">Lokasi Studio Kami  Jalan Gerilya Kumai Hulu Kecamatan Kumai Kalimantan Tengah 74119 Indonesia</p></svelte:fragment>
                 </AccordionItem>
             </div>
             <div class="">
                 <AccordionItem>
-                    <svelte:fragment slot="lead"><Icon icon="akar-icons:person" /></svelte:fragment>
+                    <svelte:fragment slot="lead"><Icon icon="ph:question-fill" /></svelte:fragment>
                     <svelte:fragment  slot="summary"><h2 class="text-white border-b-2 border-white font-extrabold font-caveat text-xl lg:text-3xl group-hover:text-secondary-500">Apa yang kalian lakukan?</h2></svelte:fragment>
                     <svelte:fragment slot="content"><p class="bg-blacky/50 p-4 rounded-md font-inter text-white/80 backdrop-blur-md">Dengan tim yang bertalenta kami memberikan beberapa layanan seperti self studio, pembuatan website static dengan framework, rental kamera dan studio hingga desain social media post dan logo serta motion graphic</p></svelte:fragment>
                 </AccordionItem>
             </div>
             <div class="">
                 <AccordionItem>
-                    <svelte:fragment slot="lead"><Icon icon="akar-icons:person" /></svelte:fragment>
+                    <svelte:fragment slot="lead"><Icon icon="maki:college" /></svelte:fragment>
                     <svelte:fragment  slot="summary"><h2 class="text-white border-b-2 border-white font-extrabold font-caveat text-xl lg:text-3xl group-hover:text-secondary-500">Bagaimana kalian membangunnya?</h2></svelte:fragment>
                     <svelte:fragment slot="content"><p class="bg-blacky/50 p-4 rounded-md font-inter text-white/80 backdrop-blur-md">Kru kami merupakan lulusan terbaik di bidangnya dengan pengalaman di industri kreatif</p></svelte:fragment>
                 </AccordionItem>
             </div>
             <div class="">
                 <AccordionItem>
-                    <svelte:fragment slot="lead"><Icon icon="akar-icons:person" /></svelte:fragment>
+                    <svelte:fragment slot="lead"><Icon icon="clarity:date-solid" /></svelte:fragment>
                     <svelte:fragment  slot="summary"><h2 class="text-white border-b-2 border-white font-extrabold font-caveat text-xl lg:text-3xl group-hover:text-secondary-500">Kapan berdiri?</h2></svelte:fragment>
                     <svelte:fragment slot="content"><p class="bg-blacky/50 p-4 rounded-md font-inter text-white/80 backdrop-blur-md">Studio ini berdiri pada tahun 2023 tetapi kiprah kami di industri kreatif sudah sejak 2013 dimulai dengan Multimedia Pictures</p></svelte:fragment>
                 </AccordionItem>
