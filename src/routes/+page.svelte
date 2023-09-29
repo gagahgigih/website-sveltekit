@@ -8,7 +8,16 @@
 </svelte:head>
 <script >
 	import Introduction from "$lib/frame/introduction.svelte";
+	import Product from "$lib/frame/product.svelte";
+	import Contact from "$lib/frame/contact.svelte";
+	import ProductPhoto from "$lib/frame/productphoto.svelte";
+	import SelfPhoto from "$lib/frame/selfphoto.svelte";
+
 </script>
-<div>
+<div class="flex flex-col  scroll-smooth">
 	<Introduction />
+	<Product />
+	<Contact />
+	<SelfPhoto />
+	<ProductPhoto />
 </div>
