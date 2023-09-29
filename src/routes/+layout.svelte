@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '../app.postcss';
-    import {Analytics} from '$lib/analytics.svelte'
+    import Analytics from "$lib/analytics.svelte"
 	// Floating UI for Popups
 	import { computePosition, autoUpdate, flip, shift, offset, arrow } from '@floating-ui/dom';
     import {AppBar, AppShell, storePopup} from '@skeletonlabs/skeleton';
