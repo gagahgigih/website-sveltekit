@@ -1,14 +1,16 @@
 <script lang="ts">
 	import '../app.postcss';
-
+    import {Analytics} from '$lib/analytics.svelte'
 	// Floating UI for Popups
 	import { computePosition, autoUpdate, flip, shift, offset, arrow } from '@floating-ui/dom';
     import {AppBar, AppShell, storePopup} from '@skeletonlabs/skeleton';
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
+
 </script>
 
 
 <AppShell>
+    <Analytics />
     <svelte:fragment slot="pageHeader">
         <AppBar background="bg-surface-500" shadow="shadow-md" gridColumns="grid-cols-1 md:grid-cols-3" slotDefault="place-self-center" slotLead="place-self-center md:place-self-start" slotTrail="place-content-center md:place-content-end">
             <svelte:fragment   slot="lead">

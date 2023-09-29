@@ -1,3 +1,10 @@
+<svelte:head>
+    <title>Gagah Gigih: Tentang Kami</title>
+    <meta name="description" content="Tentang Kami Gagah Gigih Studio Photo & Agency Terbaik di Pangkalan Bun" />
+    <meta name="keywords" content="Foto, Studio Foto, Pangkalan Bun, Pembuatan Website, Data Analyst">
+    <meta name="Gagah Gigih" content="Gagah Gigih Studio">
+    <meta charset="UTF-8">
+</svelte:head>
 <script>
     import Icon from '@iconify/svelte';
     import { Accordion, AccordionItem } from '@skeletonlabs/skeleton';
