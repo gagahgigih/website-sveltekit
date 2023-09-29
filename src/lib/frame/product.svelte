@@ -82,7 +82,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-5 justify-items-center">
             <div class="bg-product-four bg-local bg-no-repeat bg-cover bg-center w-72 h-72">
                 <div class="h-full grid grid-rows-3 place-items-start py-4 px-3  gap-8 text-center font-inter ">
-                    <div class="place-self-start">
+                    <div class="place-self-center">
                         <p class="text-blacky text-xl md:text-2xl lg:text-3xl 2xl;text-4xl font-extrabold px-2">
                             Design & Editor</p>
                     </div>
@@ -96,7 +96,7 @@
             </div>
             <div class="bg-product-five bg-local bg-no-repeat bg-cover bg-center w-72 h-72">
                 <div class="h-full grid grid-rows-3 place-items-start py-4 gap-8 text-center font-inter ">
-                    <div class="place-self-start">
+                    <div class="place-self-center">
                         <p class="text-blacky text-xl md:text-2xl lg:text-3xl 2xl;text-4xl font-extrabold px-2">
                             Web Development</p>
                     </div>
@@ -110,7 +110,7 @@
             </div>
             <div class="bg-product-six bg-local bg-no-repeat bg-cover bg-center w-72 h-72">
                 <div class="h-full grid grid-rows-3 place-items-start py-4 gap-8 text-center font-inter ">
-                    <div class="place-self-start">
+                    <div class="place-self-center">
                         <p class="text-blacky text-xl md:text-2xl lg:text-3xl 2xl;text-4xl font-extrabold px-2">
                             Rental Studio & Kamera</p>
                     </div>
@@ -123,6 +123,7 @@
 
                 </div>
             </div>
+
         </div>
 
     </div>

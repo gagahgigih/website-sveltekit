@@ -14,7 +14,7 @@
 	import SelfPhoto from "$lib/frame/selfphoto.svelte";
 
 </script>
-<div class="flex flex-col bg-surface-500 scroll-smooth">
+<div class="flex flex-col  scroll-smooth">
 	<Introduction />
 	<Product />
 	<Contact />

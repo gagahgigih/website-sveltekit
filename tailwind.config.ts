@@ -23,6 +23,7 @@ export default {
 				'product-four' : "url('/products/Artboard 4.png')",
 				'product-five' : "url('/products/Artboard 5.png')",
 				'product-six' : "url('/products/Artboard 6.png')",
+				'bg-infinite' : "url('/bg/bg-infinite.png')",
 			},
 			colors: {
 				blacky: '#222222'

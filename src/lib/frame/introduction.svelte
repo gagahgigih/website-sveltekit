@@ -29,8 +29,9 @@
                 </div>
             </div>
         </div>
-        <div class="w-full flex flex-col justify-center items-center mt-3">
+        <div class="w-full flex flex-col justify-center items-center mt-3 gap-4">
             <p class="text-white/80 font-caveat text-xl md:text-3xl 2xl:text-5xl text-center">Show Your creativity and identity, be honest to yourself</p>
+            <a class="rounded-full bg-surface-500 text-blacky/60 px-4 py-2 font-inter font-semibold" href="#self-photo">Lebih Lanjut</a>
         </div>
     </div>
 </div>

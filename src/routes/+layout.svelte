@@ -16,9 +16,9 @@
             </svelte:fragment>
             <svelte:fragment >
                 <div class="flex gap-3 mx-5">
-                    <a href="#siapakami" class=" text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Kami</a>
+                    <a href="/about" class=" text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">About</a>
                     <a href="/gallery" class="text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Gallery</a>
-                    <a href="#panduan" class="text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Panduan</a>
+                    <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6" class="text-md md:text-lg lg:text-2xl no-underline font-inter opacity-80 text-black hover:opacity-50">Lokasi</a>
                 </div>
             </svelte:fragment>
 
@@ -30,38 +30,38 @@
     </svelte:fragment>
     <slot />
 
-<!--    <svelte:fragment slot="pageFooter">-->
-<!--        <div class="bg-surface-500 shadow-md border-t-2 py-4">-->
-<!--            <div class="flex justify-center items-center w-full">-->
-<!--                <div class="flex flex-col justify-center items-center">-->
-<!--                    <div>-->
-<!--                        <p class="h3 text-black/80 font-inter">Contact Us</p>-->
-<!--                    </div>-->
-<!--                    <div class="flex ">-->
-<!--                        <a href="mailto: cs@gagahgigih.site">-->
-<!--                            <img src="/svg/emails.svg" alt="email"-->
-<!--                                 class="hover:-translate-y-2 transition duration-300 ease-in-out bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>-->
-<!--                        </a>-->
-<!--                        <a href="https://www.instagram.com/gagah_gigih/">-->
-<!--                            <img src="/svg/ig.svg" alt="instagram"-->
-<!--                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>-->
-<!--                        </a>-->
-<!--                        <a href="https://wa.me/6282137263180?text=Halo%20kak%20boleh%20bertanya%20sedikit?">-->
-<!--                            <img src="/svg/wa.svg" alt="whatssapp"-->
-<!--                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>-->
-<!--                        </a>-->
-<!--                        <a href="https://www.youtube.com/MultimediaPIctures">-->
-<!--                            <img src="/svg/yt.svg" alt="youtube mp"-->
-<!--                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>-->
-<!--                        </a>-->
-<!--                        <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6">-->
-<!--                            <img src="/svg/gmaps.svg" alt="maps"-->
-<!--                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 object-fit rounded-lg p-2 m-2 w-10"/>-->
-<!--                        </a>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </svelte:fragment>-->
+    <svelte:fragment slot="pageFooter">
+        <div class="bg-surface-500 shadow-md border-t-2 py-4">
+            <div class="flex justify-center items-center w-full">
+                <div class="flex flex-col justify-center items-center">
+                    <div>
+                        <p class="h3 text-black/80 font-caveat">Contact Us</p>
+                    </div>
+                    <div class="flex ">
+                        <a href="mailto: cs@gagahgigih.site">
+                            <img src="/svg/emails.svg" alt="email"
+                                 class="hover:-translate-y-2 transition duration-300 ease-in-out bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
+                        </a>
+                        <a href="https://www.instagram.com/gagah_gigih/">
+                            <img src="/svg/ig.svg" alt="instagram"
+                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
+                        </a>
+                        <a href="https://wa.me/6282137263180?text=Halo%20kak%20boleh%20bertanya%20sedikit?">
+                            <img src="/svg/wa.svg" alt="whatssapp"
+                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
+                        </a>
+                        <a href="https://www.youtube.com/MultimediaPIctures">
+                            <img src="/svg/yt.svg" alt="youtube mp"
+                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
+                        </a>
+                        <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6">
+                            <img src="/svg/gmaps.svg" alt="maps"
+                                 class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 object-fit rounded-lg p-2 m-2 w-10"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </svelte:fragment>
 </AppShell>
 
