@@ -2,7 +2,7 @@
 <svelte:head>
 	<title>Gagah Gigih: Get Yourself a Photo</title>
 	<meta name="description" content="Self Studio Photo Terbaik di Pangkalan Bun" />
-	<meta name="keywords" content="Foto, Studio Foto, Pangkalan Bun, Pembuatan Website">
+	<meta name="keywords" content="Foto, Studio Foto, Pangkalan Bun, Pembuatan Website, Data Analyst">
 	<meta name="Gagah Gigih" content="Gagah Gigih Studio">
 	<meta charset="UTF-8">
 </svelte:head>
