@@ -2,7 +2,7 @@
 
 
 </script>
-<div class="bg-surface-50 p-4 py-12 smooth-scroll">
+<div class="bg-surface-50 py-12 smooth-scroll">
     <div class="w-screen flex flex-col justify-center items-center gap-4 lg:gap-8">
         <!--        Section 1-->
         <div>
@@ -43,7 +43,7 @@
                             <p class="text-md">Tingkatkan kualitas produk anda dengan kami</p>
                         </div>
                         <div class="place-self-center rounded-full border border-black/80 w-1/2 py-0.5">
-                            <a href="#selfphoto" class="text-black/80  ">Jelajahi</a>
+                            <a href="#productphotography" class="text-black/80  ">Jelajahi</a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                         <p class="text-md">Dari UI/UX Design hingga deployment dengan Next js, Svelte hingga Astro</p>
                     </div>
                     <div class="place-self-center rounded-full border border-black/80 w-1/2 py-0.5">
-                        <a href="#selfphoto" class="text-black/80  ">Jelajahi</a>
+                        <a href="https://www.kisetsu.tech/" class="text-black/80  ">Jelajahi</a>
                     </div>
                 </div>
             </div>

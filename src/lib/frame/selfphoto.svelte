@@ -24,7 +24,7 @@
         </div>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4 font-inter text-blacky/80 text-center ">
             <div class="w-full bg-gradient-to-tr from-red-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
-                <a href="https://drive.google.com/file/d/1rSndIDMq9e-u_5rmA11fAw6R6kzlB3KV/view" class="">Lihat Harga</a>
+                <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4Mjc4NDc5MTY1MTU5NDQ1?story_media_id=3203332964641986656_61641968757&igshid=OGQ5ZDc2ODk2ZA==" class="">Lihat Harga</a>
             </div>
             <div class="w-full bg-gradient-to-tr from-blue-400 to-orange-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="/gallery" class="">Gallery</a>
@@ -37,7 +37,7 @@
             </div>
         </div>
         <section class="grid grid-cols-1 md:grid-cols-3 justify-items-center gap-4 px-6">
-            <div class="shadow-xl shadow-blacky/50 rounded-md border-2 border-secondary-500 p-3 grid grid-rows-3 gap-2">
+            <div class="h-[550px] shadow-xl shadow-blacky/50 rounded-md border-2 border-secondary-500 p-3 grid grid-rows-3 gap-2">
                 <div class="text-center rows-span-2">
                     <span class="h4 font-inter font-md lg:text-2xl font-bold text-center">Sesi Spesial</span>
                     <h3 class="h3 font-inter font-md lg:text-2xl font-bold">Rp. 100.000</h3>
@@ -95,7 +95,7 @@
                         <li>
                             <div class="flex gap-2 items-center font-inter">
                                 <Icon icon="mdi:asterisk" />
-                                <span>Tambah orang Rp.10000</span>
+                                <span>Tambah per orang Rp.15000</span>
                             </div>
                         </li>
                     </ul>
@@ -104,7 +104,7 @@
                     <a href="https://gagahgigihstudio.zohobookings.com/#/customer/gagahgigihstudio" class="">Coming Soon</a>
                 </div>
             </div>
-            <div class="rounded-md shadow-xl shadow-blacky/50 border-2 bg-secondary-500 text-white border-secondary-500 p-3 grid grid-rows-3 gap-2">
+            <div class=" h-[550px] rounded-md shadow-xl shadow-blacky/50 border-2 bg-secondary-500 text-white border-secondary-500 p-3 grid grid-rows-3 gap-2">
                 <div class="text-center rows-span-2">
                     <span class="h4 font-inter font-md lg:text-2xl font-bold text-center">Self Photo</span>
                     <h3 class="h3 font-inter font-md lg:text-2xl font-bold">Rp. 50.000</h3>
@@ -157,16 +157,22 @@
                         <li>
                             <div class="flex gap-2 items-center font-inter">
                                 <Icon icon="mdi:asterisk" />
-                                <span>Tambah orang Rp.10.000</span>
+                                <span>Tambah per orang Rp.15.000</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex gap-2 items-center font-inter">
+                                <Icon icon="mdi:asterisk" />
+                                <span>Tambah Cetak Rp.15.000</span>
                             </div>
                         </li>
                     </ul>
                 </div>
-                <div class="rows-span-2 place-self-end btn bg-surface-500 text-secondary-500 rounded-md h-12 w-full font-inter ">
-                    <a href="https://gagahgigihstudio.zohobookings.com/#/customer/gagahgigihstudio" class="">Booking</a>
+                <div class=" self-end  ">
+                    <a href="https://gg-self-studio-photo.youcanbook.me/" class="btn bg-surface-500 text-secondary-500 rounded-md h-12 w-full font-inter">Booking</a>
                 </div>
             </div>
-            <div class="shadow-xl shadow-blacky/50 rounded-md border-2 border-secondary-500 p-3 grid grid-rows-3 gap-2">
+            <div class="h-[550px] shadow-xl shadow-blacky/50 rounded-md border-2 border-secondary-500 p-3 grid grid-rows-3 gap-2">
                 <div class="text-center rows-span-2">
                     <span class="h4 font-inter font-md lg:text-2xl font-bold text-center">Social Media</span>
                     <h3 class="h3 font-inter font-md lg:text-2xl font-bold">Rp. 25.000</h3>
@@ -213,8 +219,8 @@
 
                     </ul>
                 </div>
-                <div class="rows-span-2 place-self-end btn bg-secondary-500 text-surface-500 rounded-md h-12 w-full font-inter ">
-                    <a href="https://gagahgigihstudio.zohobookings.com/#/customer/gagahgigihstudio" class="">Booking</a>
+                <div class="self-end ">
+                    <a href="https://gg-self-studio-photo.youcanbook.me/" class=" btn bg-secondary-500 text-surface-500 rounded-md h-12 w-full font-inter ">Booking</a>
                 </div>
             </div>
         </section>

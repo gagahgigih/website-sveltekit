@@ -26,7 +26,7 @@
             </svelte:fragment>
 
             <svelte:fragment slot="trail">
-                    <a class="h-10 btn text-md md:text-lg lg:text-2xl rounded-full bg-gradient-to-r from-pink-700 to-teal-600 p-4 text-md no-underline font-inter opacity-80 text-white "  href="https://gagahgigihstudio.zohobookings.com/#/customer/gagahgigihstudio">Booking</a>
+                    <a class="h-10 btn text-md md:text-lg lg:text-2xl rounded-full bg-gradient-to-r from-pink-700 to-teal-600 p-4 text-md no-underline font-inter opacity-80 text-white "  href="https://gg-self-studio-photo.youcanbook.me/">Booking</a>
 
             </svelte:fragment>
         </AppBar>
