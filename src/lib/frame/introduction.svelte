@@ -1,7 +1,7 @@
 <script>
-    import img from '$lib/images/IMG_9199.jpg';
-    import img2 from '$lib/images/IMG_9203 2.jpg';
-    import img3 from '$lib/images/IMG_9193.jpg';
+    import img from '$lib/images/IMG1.jpg';
+    import img2 from '$lib/images/IMG2.jpg';
+    import img3 from '$lib/images/IMG3.jpg';
 </script>
 <div class="bg-bg-gradient md:w-screen md:h-screen bg-cover py-2">
     <div class="">
@@ -12,11 +12,11 @@
         <div class="w-full flex flex-col justify-center items-center mt-3 ">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-around">
                 <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio "  src={img} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md"  src={img} alt="" />
                     <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4Mjc4NDc5MTY1MTU5NDQ1?story_media_id=3203332964641986656_61641968757&igshid=OGQ5ZDc2ODk2ZA==" class="btn button-price-blue">Lihat Harga</a>
                 </div>
                 <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio"  src={img2} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md"  src={img2} alt="" />
                     <div class="h-12 bg-gradient-to-r from-red-500 to-teal-500 rounded-full p-1 transition duration-300 ease-in-out hover:-translate-y-2">
                         <div class="flex h-full w-full items-center justify-center bg-blacky rounded-full ">
                             <a href="https://gg-self-studio-photo.youcanbook.me/" class="text-white font-inter font-bold h-fit">Booking</a>
@@ -24,7 +24,7 @@
                     </div>
                 </div>
                 <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio"  src={img3} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md"  src={img3} alt="" />
                     <a href="/gallery" class="btn button-price-teal">Gallery</a>
                 </div>
             </div>
