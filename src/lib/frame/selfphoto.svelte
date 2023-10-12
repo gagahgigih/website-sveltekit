@@ -10,7 +10,7 @@
     let secfilter = false;
     let thifilter = false;
     $: active_class = bwfilter ? 'grayscale-0 transition duration-500 ease-ini-out' :
-        'bw transition duration-500 ease-ini-out contrast-20';
+        'blur-xl transition duration-500 ease-ini-out contrast-20';
     $: activesec = secfilter ? ' transition duration-500 ease-ini-out  invert-0' :
         ' invert transition duration-500 ease-ini-out contrast-20 hue-rotate-0';
     $: activethif = thifilter ? ' transition duration-500 ease-ini-out  saturate-200' :
@@ -260,8 +260,8 @@
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div class="flex flex-col justify-center gap-2 bg-blacky/80 p-4 rounded-xl">
-                <div class="backdrop-invert">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 {active_class}" src={img3} alt="" />
+                <div class="backdrop-invert ">
+                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62  {active_class}" src={img3} alt="" />
                 </div>
                 <button on:click="{() => bwfilter = !bwfilter}" class="bg-surface-500 rounded-full p-2 font-inter" >Coba Edit</button>
             </div>

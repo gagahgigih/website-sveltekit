@@ -49,7 +49,7 @@
                             <img src="/svg/ig.svg" alt="instagram"
                                  class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
                         </a>
-                        <a href="https://wa.me/6282137263180?text=Halo%20kak%20boleh%20bertanya%20sedikit?">
+                        <a href="https://wa.me/6282137263180">
                             <img src="/svg/wa.svg" alt="whatssapp"
                                  class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 rounded-lg p-2 m-2 w-10"/>
                         </a>
@@ -62,7 +62,11 @@
                                  class="hover:-translate-y-2 transition duration-300 bg-secondary-500/60 object-fit rounded-lg p-2 m-2 w-10"/>
                         </a>
                     </div>
+                    <div>
+                        <p class="font-caveat ">Copyright Gagah Gigih 2023</p>
+                    </div>
                 </div>
+
             </div>
         </div>
     </svelte:fragment>

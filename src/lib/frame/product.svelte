@@ -57,7 +57,7 @@
                             <p class="text-md">Personalisasi diri dengan baik di platform media</p>
                         </div>
                         <div class="place-self-center rounded-full border border-black/80 w-1/2 py-0.5">
-                            <a href="#selfphoto" class="text-black/80  ">Jelajahi</a>
+                            <a href="#self-photo" class="text-black/80  ">Jelajahi</a>
                         </div>
 
                     </div>

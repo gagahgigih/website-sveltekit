@@ -5,7 +5,7 @@
             <p class=" font-regular">Kami akan selalu membantu anda</p>
         </div>
         <div>
-            <a class="btn rounded-full px-10 py-2 bg-secondary-500 text-white" href="https://wa.me/6282137263180?text=Halo%20kak%20boleh%20bertanya%20sedikit?">Support</a>
+            <a class="btn rounded-full px-10 py-2 bg-secondary-500 text-white" href="https://wa.me/6282137263180">Support</a>
         </div>
     </div>
 </div>
