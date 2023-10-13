@@ -8,7 +8,7 @@
 </script>
 
 <div id="productphotography" class="scroll-smooth bg-blacky  ">
-    <div class="w-screen md:h-screen flex items-center flex-col gap-4 lg:gap-8 p-4 ">
+    <div class="w-screen  flex items-center flex-col gap-4 lg:gap-8 mb-12">
         <div class="text-2xl md:text-3xl lg:text-5xl text-center py-5">
             <span class="font-inter font-extrabold text-white">Kenyamanan.<span class="font-extrabold font-inter text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-orange-400 to-orange-600 to-70">Memanjakan Mata</span></span>
         </div>
