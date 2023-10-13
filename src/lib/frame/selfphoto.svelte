@@ -22,7 +22,7 @@
         <div class="text-2xl md:text-3xl lg:text-5xl text-center">
             <span class="font-extrabold font-inter text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-amber-400 to-70%">Kenyamanan. <span class="text-black/80">Berbagi Moment</span></span>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 font-inter text-blacky/80 text-center ">
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-4 font-inter text-blacky/80 text-center ">
             <div class="w-full bg-gradient-to-tr from-red-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4Mjc4NDc5MTY1MTU5NDQ1?story_media_id=3203332964641986656_61641968757&igshid=OGQ5ZDc2ODk2ZA==" class="">Lihat Harga</a>
             </div>
@@ -31,6 +31,9 @@
             </div>
             <div class="w-full bg-gradient-to-tr from-lime-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="/faq" class="">FAQ</a>
+            </div>
+            <div class="w-full bg-gradient-to-tr from-lime-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
+                <a href="/aksesoris" class="">Aksesoris</a>
             </div>
             <div class="w-full bg-gradient-to-tr from-purple-400 to-amber-300-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6" class="">Lokasi</a>

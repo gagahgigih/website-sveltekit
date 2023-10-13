@@ -2,6 +2,9 @@
     import img from "$lib/images/product/1.jpg";
     import img2 from "$lib/images/product/2.jpg";
     import img3 from "$lib/images/product/3.jpg";
+    import img5 from "$lib/images/product/5.jpg";
+    import img6 from "$lib/images/product/6.jpg";
+    import img7 from "$lib/images/product/7.jpg";
 </script>
 
 <div id="productphotography" class="scroll-smooth bg-blacky  ">
@@ -15,7 +18,7 @@
                 <p class="text-white/60 font-sm font-light">Hanya dengan Rp. 150.000 kamu mendapatkan 10 gambar berkualitas tinggi untuk berbagai kebutuhan. Kami berkomitmen setiap produk memiliki konsep masing masing.</p>
             </div>
         </div>
-        <div class="font-inter md:w-1/2 grid grid-cols-1 md:grid-cols-3 gap-2">
+        <div class="font-inter md:w-1/2 grid grid-cols-2 md:grid-cols-3 gap-4">
             <div>
                 <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio shadow-md shadow-surface-500/50"  src={img} alt="" />
             </div>
@@ -24,6 +27,15 @@
             </div>
             <div>
                 <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio shadow-md shadow-surface-500/50"  src={img3} alt="" />
+            </div>
+            <div>
+                <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio shadow-md shadow-surface-500/50"  src={img5} alt="" />
+            </div>
+            <div>
+                <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio shadow-md shadow-surface-500/50"  src={img6} alt="" />
+            </div>
+            <div>
+                <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 img-studio shadow-md shadow-surface-500/50"  src={img7} alt="" />
             </div>
         </div>
 

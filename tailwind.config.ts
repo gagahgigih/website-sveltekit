@@ -13,7 +13,8 @@ export default {
 			fontFamily : {
 				caveat : ['Caveat'],
 				inter: ['Inter'],
-				kanit: ['Kanit']
+				kanit: ['Kanit'],
+				lato: ['Lato'],
 			},
 			backgroundImage: {
 				'bg-gradient': "url('/bg/bg-gradient.png')",

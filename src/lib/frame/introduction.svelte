@@ -19,7 +19,7 @@
                     <img class="w-60 h-fit  img-studio rounded-md"  src={img2} alt="" />
                     <div class="h-12 bg-gradient-to-r from-red-500 to-teal-500 rounded-full p-1 transition duration-300 ease-in-out hover:-translate-y-2">
                         <div class="flex h-full w-full items-center justify-center bg-blacky rounded-full ">
-                            <a href="https://gg-self-studio-photo.youcanbook.me/" class="text-white font-inter font-bold h-fit">Booking</a>
+                            <a href="https://gg-self-studio-photo.youcanbook.me/" class="text-white font-inter font-bold h-fit">Booking Disini</a>
                         </div>
                     </div>
                 </div>

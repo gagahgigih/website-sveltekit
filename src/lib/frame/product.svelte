@@ -101,7 +101,7 @@
                             Web Development</p>
                     </div>
                     <div class="place-self-start px-2">
-                        <p class="text-md">Dari UI/UX Design hingga deployment dengan Next js, Svelte hingga Astro</p>
+                        <p class="text-md">Dari UI/UX Design hingga deployment dengan Next js, Svelte Kit hingga Vue js</p>
                     </div>
                     <div class="place-self-center rounded-full border border-black/80 w-1/2 py-0.5">
                         <a href="https://www.kisetsu.tech/" class="text-black/80  ">Jelajahi</a>
