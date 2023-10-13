@@ -1,7 +1,7 @@
 <script>
-    import img from '$lib/images/edit/Edit 1.jpg';
-    import img2 from '$lib/images/edit/Edit 2.jpg'
-    import img3 from '$lib/images/edit/Edit 3.jpg';
+    import img from '$lib/images/IMG6.jpg';
+    import img2 from '$lib/images/IMG5.jpg'
+    import img3 from '$lib/images/IMG4.jpg';
     import {Step, Stepper} from "@skeletonlabs/skeleton";
     import Icon from '@iconify/svelte';
 
@@ -22,7 +22,7 @@
         <div class="text-2xl md:text-3xl lg:text-5xl text-center">
             <span class="font-extrabold font-inter text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-amber-400 to-70%">Kenyamanan. <span class="text-black/80">Berbagi Moment</span></span>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 font-inter text-blacky/80 text-center ">
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-4 font-inter text-blacky/80 text-center ">
             <div class="w-full bg-gradient-to-tr from-red-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4Mjc4NDc5MTY1MTU5NDQ1?story_media_id=3203332964641986656_61641968757&igshid=OGQ5ZDc2ODk2ZA==" class="">Lihat Harga</a>
             </div>
@@ -31,6 +31,9 @@
             </div>
             <div class="w-full bg-gradient-to-tr from-lime-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="/faq" class="">FAQ</a>
+            </div>
+            <div class="w-full bg-gradient-to-tr from-lime-400 to-purple-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
+                <a href="/aksesoris" class="">Aksesoris</a>
             </div>
             <div class="w-full bg-gradient-to-tr from-purple-400 to-amber-300-200 px-6 py-2 rounded-full transition duration-300 ease-in-out shadow-md shadow-blacky/50 hover:-translate-y-2">
                 <a href="https://maps.app.goo.gl/n7V8BibWLAGC2LjR6" class="">Lokasi</a>
@@ -261,19 +264,19 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div class="flex flex-col justify-center gap-2 bg-blacky/80 p-4 rounded-xl">
                 <div class="backdrop-invert ">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62  {active_class}" src={img3} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md  {active_class}" src={img3} alt="" />
                 </div>
                 <button on:click="{() => bwfilter = !bwfilter}" class="bg-surface-500 rounded-full p-2 font-inter" >Coba Edit</button>
             </div>
             <div class="flex flex-col justify-center gap-2 bg-blacky/80 p-4 rounded-xl">
                 <div class="backdrop-invert">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 {activesec}" src={img2} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md {activesec}" src={img2} alt="" />
                 </div>
                 <button on:click="{() => secfilter = !secfilter}" class="bg-surface-500 rounded-full p-2 font-inter" >Coba Edit</button>
             </div>
             <div class="flex flex-col justify-center gap-2 bg-blacky/80 p-4 rounded-xl">
                 <div class="backdrop-invert">
-                    <img class="h-40 w-40 md:w-44 md:h-44 lg:w-56 lg:h-56 2xl:w-62 2xl:h-62 {activethif}" src={img} alt="" />
+                    <img class="w-60 h-fit  img-studio rounded-md {activethif}" src={img} alt="" />
                 </div>
                 <button on:click="{() => thifilter = !thifilter}" class="bg-surface-500 rounded-full p-2 font-inter" >エディット</button>
             </div>

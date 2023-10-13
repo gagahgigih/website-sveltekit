@@ -12,9 +12,9 @@
 <AppShell>
     <Analytics />
     <svelte:fragment slot="pageHeader">
-        <AppBar background="bg-surface-500" shadow="shadow-md" gridColumns="grid-cols-1 md:grid-cols-3" slotDefault="place-self-center" slotLead="place-self-center md:place-self-start" slotTrail="place-content-center md:place-content-end">
+        <AppBar background="bg-surface-500 border-b" shadow="shadow-xl" gridColumns="grid-cols-1 md:grid-cols-3" slotDefault="place-self-center" slotLead="place-self-center md:place-self-start" slotTrail="place-content-center md:place-content-end">
             <svelte:fragment   slot="lead">
-                <a href="/" class="text-xl md:text-3xl lg:text-4xl 2xl:text-7xl no-underline opacity-80 text-black font-caveat">Gagah Gigih</a>
+                <a href="/" class="text-xl md:text-3xl lg:text-4xl 2xl:text-7xl no-underline opacity-80 text-black font-lato">Gagah Gigih</a>
             </svelte:fragment>
             <svelte:fragment >
                 <div class="flex gap-3 mx-5">
@@ -26,7 +26,7 @@
             </svelte:fragment>
 
             <svelte:fragment slot="trail">
-                    <a class="h-10 btn text-md md:text-lg lg:text-2xl rounded-full bg-gradient-to-r from-pink-700 to-teal-600 p-4 text-md no-underline font-inter opacity-80 text-white "  href="https://gg-self-studio-photo.youcanbook.me/">Booking</a>
+                    <a class="h-10 btn text-md md:text-lg lg:text-2xl rounded-full bg-gradient-to-r from-pink-700 to-teal-600 p-4 text-md no-underline font-inter opacity-80 text-white "  href="https://gg-self-studio-photo.youcanbook.me/">Booking Disini</a>
 
             </svelte:fragment>
         </AppBar>
@@ -38,7 +38,7 @@
             <div class="flex justify-center items-center w-full">
                 <div class="flex flex-col justify-center items-center">
                     <div>
-                        <p class="h3 text-black/80 font-caveat">Contact Us</p>
+                        <p class="h3 text-black/80 font-inter">Contact Us</p>
                     </div>
                     <div class="flex ">
                         <a href="mailto: cs@gagahgigih.site">
@@ -63,7 +63,7 @@
                         </a>
                     </div>
                     <div>
-                        <p class="font-caveat ">Copyright Gagah Gigih 2023</p>
+                        <p class="font-lato text-light ">Copyright Gagah Gigih 2023</p>
                     </div>
                 </div>
 
