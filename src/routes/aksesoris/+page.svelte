@@ -19,7 +19,7 @@
     import megkod from "$lib/images/gallery/Megane kodomo.jpg"
     import nekoao from "$lib/images/gallery/Neko Ao.jpg"
     import nekoaka from "$lib/images/gallery/Neko Aka.jpg"
-    import mimi from "$lib/images/gallery/mimi.jpg"
+    import mimi from "$lib/images/gallery/Mimi.jpg"
     import nekomimi from "$lib/images/gallery/neko no mimi.jpg"
     import ningyo from "$lib/images/gallery/Ningyo.jpg"
     import tie from "$lib/images/gallery/tie.jpg"
