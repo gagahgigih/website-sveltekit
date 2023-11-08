@@ -26,7 +26,11 @@
             </svelte:fragment>
 
             <svelte:fragment slot="trail">
-                    <a class="h-10 btn text-md md:text-lg lg:text-2xl rounded-full bg-gradient-to-r from-pink-700 to-teal-600 p-4 text-md no-underline font-inter opacity-80 text-white "  href="https://gg-self-studio-photo.youcanbook.me/">Booking Disini</a>
+                    <div class="flex flex-row gap-1">
+                        <a class="h-10 btn text-md md:text-lg lg:text-2xl btn button-price-teal "  href="https://gg-self-studio-photo.youcanbook.me/">Booking BG Berwarna</a>
+                        <a class="h-10 btn text-md md:text-lg lg:text-2xl btn button-price-white"  href="https://gg-self-studio-photo.youcanbook.me/">Booking BG Putih</a>
+                    
+                    </div>
 
             </svelte:fragment>
         </AppBar>
