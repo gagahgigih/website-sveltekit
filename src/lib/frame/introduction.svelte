@@ -8,18 +8,11 @@
     <div class="">
         <div class="w-full flex flex-col justify-center items-center mt-3">
             <h1 class="font-extrabold text-3xl md:text-5xl lg:text-7xl 2xl:text-9xl font-inter  text-transparent  bg-clip-text bg-gradient-to-r from-neutral-800 to-red-500">Self Photo Studio</h1>
-            <p class="font-inter text-surface-300 text-lg md:text-2xl lg:text-4xl 2xl:text-5xl">Get Yourself a Photo</p>
+            <p class="font-inter text-surface-300 text-lg md:text-2xl lg:text-4xl 2xl:text-5xl">Cek Highlight kami</p>
         </div>
         <div class="w-full flex flex-col justify-center items-center mt-3 ">
             <div class="grid grid-cols-1 md:grid-cols-4 gap-4 justify-around">
-                <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
-                    <img class="w-60 h-fit  img-studio rounded-md"  src={img2} alt="" />
-                    <a href="https://gg-self-studio-photo.youcanbook.me/" class="btn button-price-teal ">Booking BG Berwarna</a>
-                </div>
-                <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
-                    <img class="w-60 h-fit  img-studio rounded-md"  src={img7} alt="" />
-                    <a href="https://gg-white-bg.youcanbook.me" class="btn button-price-white ">Booking BG Putih</a>
-                </div>
+            
                 <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
                     <img class="w-60 h-fit img-studio rounded-md"  src={img} alt="" />
                     <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4Mjc4NDc5MTY1MTU5NDQ1?story_media_id=3203332964641986656_61641968757&igshid=OGQ5ZDc2ODk2ZA==" class="btn button-price-blue">Lihat Harga</a>
