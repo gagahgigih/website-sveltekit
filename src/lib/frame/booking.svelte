@@ -12,7 +12,7 @@
 	<div class="flex flex-col gap-3">
 		<div class="text-center">
 			<h1
-				class="font-extrabold text-3xl md:text-5xl lg:text-7xl 2xl:text-9xl font-inter text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-red-200"
+				class="font-extrabold text-3xl md:text-5xl lg:text-7xl 2xl:text-9xl font-inter text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-sky-500"
 			>
 				Background Berwarna
 			</h1>
@@ -34,11 +34,11 @@
 			</h1>
 			<p class="text-black/70 text-center font-inter md:text-lg">
 				Untuk background putih hanya untuk hari Jumat ya kak dihari lain tidak bisa,
-                cek kembali tanggal dan jam ya
+                cek kembali tanggal dan jam ya. Permintaan berubah warna setelah booking tidak akan dilayani ya
 			</p>
 		</div>
 		<div class="p-2 border-2 border-red-500 rounded-md">
-			<script src="https://embed.ycb.me" async={true} data-domain="gg-self-studio-photo"></script>
+			<script src="https://embed.ycb.me"	async={true}	data-domain="gg-white-bg"></script>
 		</div>
 	</div>
 </div>
