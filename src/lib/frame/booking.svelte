@@ -16,12 +16,13 @@
 			>
 				Background Berwarna
 			</h1>
+			<h2 class="font-extrabold text-xl md:text-2xl">BAGIAN FORM BACKGROUND BERWARNA</h2>
 			<p class="text-black/70 text-center font-inter md:text-lg">
-				Tolong Perhatikan tanggal dan jam ya kak, jika anda datang tidak sesuai maka tidak bisa ya
-				karena bertabrakan dengan pelanggan lain
+				Formulir booking ini untuk yang berwarna ya.Tolong Perhatikan tanggal dan jam ya kak pilih sesuai yang dibutuhkan. Yang Berwarna terdapat
+				3 orange sunset, sky blue dan natural grey.
 			</p>
 		</div>
-		<div class="p-2 border-2 border-red-500 rounded-md">
+		<div class="p-2 border-2 border-red-500 border-4 rounded-md">
 			<script src="https://embed.ycb.me" async={true} data-domain="gg-self-studio-photo"></script>
 		</div>
 	</div>
@@ -32,12 +33,13 @@
 			>
 				Background Bone White
 			</h1>
+			<h2 class="font-extrabold text-xl md:text-2xl">BAGIAN FORM BACKGROUND PUTIH</h2>
 			<p class="text-black/70 text-center font-inter md:text-lg">
 				Untuk background putih hanya untuk hari Jumat ya kak dihari lain tidak bisa,
-                cek kembali tanggal dan jam ya. Permintaan berubah warna setelah booking tidak akan dilayani ya
+                cek kembali tanggal dan jam ya.
 			</p>
 		</div>
-		<div class="p-2 border-2 border-red-500 rounded-md">
+		<div class="p-2 border-2 border-black border-4 rounded-md">
 			<script src="https://embed.ycb.me"	async={true}	data-domain="gg-white-bg"></script>
 		</div>
 	</div>

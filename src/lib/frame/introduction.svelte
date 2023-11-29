@@ -11,7 +11,7 @@
             <p class="font-inter text-surface-300 text-lg md:text-2xl lg:text-4xl 2xl:text-5xl">Cek Highlight kami</p>
         </div>
         <div class="w-full flex flex-col justify-center items-center mt-3 ">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 justify-around">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 justify-around">
             
                 <div class="bg-blacky p-6 rounded-xl flex justify-center flex-col gap-4 shadow-2xl shadow-white/20 backdrop-blur-xl bg-blacky/50">
                     <img class="w-60 h-fit img-studio rounded-md"  src={img} alt="" />
