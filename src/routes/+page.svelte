@@ -26,10 +26,12 @@
 	import ProductPhoto from "$lib/frame/productphoto.svelte";
 	import SelfPhoto from "$lib/frame/selfphoto.svelte";
 	import { MetaTags } from 'svelte-meta-tags';
-
+	import Booking from "$lib/frame/booking.svelte"
 </script>
 <div class="flex flex-col  scroll-smooth">
+	<Booking />
 	<Introduction />
+	
 	<Product />
 	<Contact />
 	<SelfPhoto />
